@@ -11,3 +11,8 @@ This project contains examples demonstrating the use of FPGA and ASIC for variou
 
 ## How to run 
 The easies way to run the project is to click the links above to run the corresponding example. That way everything is already setup and all you have to do is press the "run" button. Alternatively you can download the repository and use your own test environment, note that the testbench might not work correct with other simulators than the one recommended here.
+
+## Authors
+- [Jens Martin Jahle](https://github.com/jensmjahle)
+- Torbjørn Antonsen
+- [Anders Emil Bergan](https://github.com/anderebe)
